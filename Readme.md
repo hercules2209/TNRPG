@@ -68,9 +68,9 @@ The GNU General Public License v3.0 allows others to use, modify, and distribute
 
 ## 📈 Project Stats
 
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/tnrpg?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tnrpg?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tnrpg?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/tnrpg?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/hercules2209/tnrpg?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/hercules2209/tnrpg?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/hercules2209/tnrpg?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/hercules2209/tnrpg?style=flat-square)
 
 Feel free to further modify or expand this README as needed. Let me know if you need any additional assistance!
