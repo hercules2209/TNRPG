@@ -1,4 +1,7 @@
-
+use std::io;
+const health:i32=100;
+const mana:i32=100;
+const stamina:i32=100
 const damage:i32=15;
 fn main() {
     let mut health = 100;
