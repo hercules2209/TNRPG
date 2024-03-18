@@ -66,4 +66,3 @@ fn run(health: &mut i16) {
 fn slash(health: &mut i16) {
     *health -= DAMAGE;
 }
-
