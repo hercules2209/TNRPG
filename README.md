@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Rust](https://img.shields.io/badge/Language-Rust-orange.svg)](https://www.rust-lang.org/)
 
-TNRPG is a text-based role-playing game currently under development as a learning exercise for the Rust programming language. The game aims to create a souls-like experience with mechanics inspired by medieval fantasy settings. 🏰
+TNRPG is a Totally Normal Role Playing game currently under development as a learning exercise for the Rust programming language. The game aims to create a souls-like experience with mechanics inspired by medieval fantasy settings. 🏰
 
 ![TNRPG Banner](https://via.placeholder.com/1000x200?text=TNRPG+Banner)
 
@@ -73,4 +73,5 @@ The GNU General Public License v3.0 allows others to use, modify, and distribute
 ![GitHub forks](https://img.shields.io/github/forks/hercules2209/tnrpg?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/hercules2209/tnrpg?style=flat-square)
 
-Feel free to further modify or expand this README as needed. Let me know if you need any additional assistance!
+## Key Note
+I am a complete Rust beginner. So this project will change a hundred times and there might be times when I won't work on it for dats but I do intend to go through it to the end.
