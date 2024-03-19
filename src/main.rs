@@ -1,18 +1,18 @@
 
 use std::io;
 
-// Constants should be in uppercase.
+
 const HEALTH_MAX: i16 = 100;
 const DAMAGE: i16 = 15;
 // const MANA_MAX: i16 =100;
 // const STAMINA_MAX:i16=100;
 fn main() {
-    // Initialize health with the constant value.
+    
     let mut health = HEALTH_MAX;
     let mut k = 1; // Set k to 1 to enter the loop.
 
     while k != 0 {
-        println!("What would you like to do? \n Enter 1 to heal\n 2 to call crysis\n3 to slash\n 4 to run \n 5 to exit");
+        println!("What would you like to do? \nEnter 1 to heal\n 2 to call crysis\n3 to slash\n 4 to run \n 5 to exit");
         let mut user_input = String::new(); // Declare user_input variable.
         io::stdin()
             .read_line(&mut user_input)
@@ -47,7 +47,7 @@ fn crysis(sec: i8, health: &mut i16) {
     println!("You took damage.\n Your health is now {}", *health);
 }
 
-fn health_fn(sec: i8, health: &mut i16) { // Renamed to avoid conflict with keyword.
+fn health_fn(sec: i8, health: &mut i16) { 
     for _ in 0..sec {
         *health += (DAMAGE as f32 * 0.8) as i16; // Changed to increase health.
     }
